@@ -1,0 +1,7 @@
+{
+    "diffEditor.wordWrap": "off",
+    "editor.wordWrapColumn": 9999,
+    "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, ColumnLimit: 9999, SortIncludes: false, UseTab: Never, IndentWidth: 4, TabWidth: 4 }",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, ColumnLimit: 9999, SortIncludes: false, UseTab: Never, IndentWidth: 4, TabWidth: 4 }",
+    "C_Cpp.formatting": "clangFormat"
+}

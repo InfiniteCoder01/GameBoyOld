@@ -1,0 +1,58 @@
+Mario:
+  ✓ Castle inside @done (22-07-08 23:55)
+  ✓ Changible backgrounds @done (22-07-08 19:10)
+  ✓ Racoon mario @done (22-07-09 16:44)
+  ✓ Better entity @done (22-07-11 20:27)
+  ✓ Better saving @done (22-07-10 16:52)
+  ✓ Flappy flames @done (22-07-10 16:52)
+  ✓ More Levels @done (22-07-11 02:00)
+  ✓ P-Switch @done (22-07-11 02:00)
+  ✓ Roma's level @done (22-07-11 02:00)
+  ✓ Mario sprint @done (22-07-08 19:48)
+  ✓ Move mario to the new Engine @done (22-07-07 23:38)
+  ✓ Mario Downgrade @done (22-07-04 23:58)
+  ✓ Rename Mario -> Super Mario Bros 3 @done (22-06-30 13:09)
+  ✓ add drawExtended UI Everywere @done (22-06-30 22:38)
+  ✓ 1st CASTLE restart @done (22-07-26 10:11)
+  ✓ Invalid sprite mario -> racoon @done (22-08-12 14:33)
+  ✓ BOSS ANIMATION BROKEN @done (22-07-26 10:02)
+  ✓ RESTART ALL FILE DELETE FAIL @done (22-07-21 13:42)
+  ✓ Typing text @done (22-08-12 14:54)
+  ☐ Level transitions V2
+
+Pokemon:
+   ✓ NPC target save & load V @done (22-08-12 16:45)
+
+ ✓ Pokemon & mario reset fix @done (22-08-12 02:05)
+ ✓ Add sound @done (22-08-12 19:35)
+ ✓ Move to ESP32 @done (22-07-20 21:22) 
+ ✓ Geometry Dash exit @done (22-07-24 18:16)
+ ✓ Cuby exit @done (22-08-04 22:50)
+ ✓ Multitasking @done (22-08-09 13:33)
+ ✓ Fix buttons (check bReleased, bHeld) @done (22-08-12 15:00)
+ ✓ Audio::stop @done (22-08-12 14:22)
+ ✓ OSU & Tetris animations V @done (22-08-12 18:21)
+ ✓ Utils code fix @done (22-08-12 15:13)
+ ☐ Add water
+ ☐ AI Boss
+
+Cuby:
+ ☐ Update
+
+Tetris:
+ ☐ Better animations
+
+OSU:
+  ☐ Scrolling text V
+  ☐ Song Auto is bad V
+
+Asteroids:
+  ✓ X press transfer fix @done (22-08-04 22:50)
+  ☐ Portal effect
+
+Games:
+  ✓ Adventures -> Pokemon @done (22-07-12 02:08)
+  ☐ Pokemon
+  ☐ Doom
+  ✓ Tetris @done (22-07-21 13:42)
+  ✓ OSU! @done (22-08-08 22:09)
